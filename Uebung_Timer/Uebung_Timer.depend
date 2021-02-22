@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1607338762 source:c:\users\mrsch\documents\schule\automation\4. klasse\mikrocontroller\library\mylib.c
+	<avr/io.h>
+
+1612902976 source:c:\users\mrsch\documents\schule\automation\4. klasse\mikrocontroller\library\usart.c
+	<avr/io.h>
+
+1613990587 source:c:\users\mrsch\documents\schule\automation\4. klasse\mikrocontroller\uebung_timer\fuse.c
+	<avr/io.h>
+
+1613991314 source:c:\users\mrsch\documents\schule\automation\4. klasse\mikrocontroller\uebung_timer\main.c
+	<avr/io.h>
+	"../Library/myLib.h"
+	"../Library/USART_SerielleSchnittstelle.h"
+
+1607338794 c:\users\mrsch\documents\schule\automation\4. klasse\mikrocontroller\library\mylib.h
+
+1612780207 c:\users\mrsch\documents\schule\automation\4. klasse\mikrocontroller\library\usart_serielleschnittstelle.h
+
